@@ -15,6 +15,7 @@ Blue 3Dprinted box with the photon circuit and OLED display. 3d Printed Material
 ![box](https://cloud.githubusercontent.com/assets/21232700/20317606/c13de274-ab34-11e6-8b2b-c8c46b8d78cc.JPG)
 
 
-Door printed on the Laser printer. Material: Wood
-![box](https://cloud.githubusercontent.com/assets/21232700/20317606/c13de274-ab34-11e6-8b2b-c8c46b8d78cc.JPG)
+Door printed on the Laser printer with the proximity sensor. Material: Wood
+![door](https://cloud.githubusercontent.com/assets/21232700/20317741/4de185fa-ab35-11e6-97a6-a415c47d90d7.JPG)
+
 
