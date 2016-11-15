@@ -19,3 +19,8 @@ Door printed on the Laser printer with the proximity sensor. Material: Wood
 ![door](https://cloud.githubusercontent.com/assets/21232700/20317741/4de185fa-ab35-11e6-97a6-a415c47d90d7.JPG)
 
 
+![img_4617](https://cloud.githubusercontent.com/assets/21232700/20318255/7b7a76e6-ab37-11e6-9d1a-1d29e3c4ee00.JPG)
+
+
+Circuit-
+![img_4606](https://cloud.githubusercontent.com/assets/21232700/20318262/7ff493e6-ab37-11e6-8d5e-b58fac36fee2.JPG)
