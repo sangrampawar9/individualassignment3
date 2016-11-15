@@ -11,3 +11,6 @@ Apart from the OLED the project already had a neopixel 24 ring LED which is bein
 * Added an extra Output- OLED display.
 
 
+Blue 3Dprinted box with the photon circuit and OLED display.
+![box](https://cloud.githubusercontent.com/assets/21232700/20317606/c13de274-ab34-11e6-8b2b-c8c46b8d78cc.JPG)
+
